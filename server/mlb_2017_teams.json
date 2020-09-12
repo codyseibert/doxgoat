@@ -1,0 +1,1057 @@
+{
+  "overallteamstandings": {
+    "lastUpdatedOn": "2018-05-16 7:59:43 PM",
+    "teamstandingsentry": [
+      {
+        "team": {
+          "ID": "137",
+          "City": "Los Angeles",
+          "Name": "Dodgers",
+          "Abbreviation": "LAD"
+        },
+        "rank": "1",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "104"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "58"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "770"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "580"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "116",
+          "City": "Cleveland",
+          "Name": "Indians",
+          "Abbreviation": "CLE"
+        },
+        "rank": "2",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "102"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "60"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "819"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "564"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "122",
+          "City": "Houston",
+          "Name": "Astros",
+          "Abbreviation": "HOU"
+        },
+        "rank": "3",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "101"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "61"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "897"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "700"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "126",
+          "City": "Washington",
+          "Name": "Nationals",
+          "Abbreviation": "WAS"
+        },
+        "rank": "4",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "97"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "65"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "819"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "672"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "113",
+          "City": "Boston",
+          "Name": "Red Sox",
+          "Abbreviation": "BOS"
+        },
+        "rank": "5",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "93"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "69"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "785"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "668"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "140",
+          "City": "Arizona",
+          "Name": "Diamondbacks",
+          "Abbreviation": "ARI"
+        },
+        "rank": "6",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "93"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "69"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "812"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "659"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "131",
+          "City": "Chicago",
+          "Name": "Cubs",
+          "Abbreviation": "CHC"
+        },
+        "rank": "7",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "92"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "70"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "822"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "695"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "114",
+          "City": "New York",
+          "Name": "Yankees",
+          "Abbreviation": "NYY"
+        },
+        "rank": "8",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "91"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "71"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "858"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "661"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "138",
+          "City": "Colorado",
+          "Name": "Rockies",
+          "Abbreviation": "COL"
+        },
+        "rank": "9",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "87"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "75"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "824"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "757"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "134",
+          "City": "Milwaukee",
+          "Name": "Brewers",
+          "Abbreviation": "MIL"
+        },
+        "rank": "10",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "86"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "76"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "732"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "698"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "120",
+          "City": "Minnesota",
+          "Name": "Twins",
+          "Abbreviation": "MIN"
+        },
+        "rank": "11",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "85"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "77"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "815"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "788"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "133",
+          "City": "St. Louis",
+          "Name": "Cardinals",
+          "Abbreviation": "STL"
+        },
+        "rank": "12",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "83"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "79"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "761"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "705"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "115",
+          "City": "Tampa Bay",
+          "Name": "Rays",
+          "Abbreviation": "TB"
+        },
+        "rank": "13",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "80"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "82"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "694"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "705"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "118",
+          "City": "Kansas City",
+          "Name": "Royals",
+          "Abbreviation": "KC"
+        },
+        "rank": "14",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "80"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "82"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "702"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "791"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "124",
+          "City": "Los Angeles",
+          "Name": "Angels",
+          "Abbreviation": "LAA"
+        },
+        "rank": "15",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "80"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "82"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "711"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "713"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "121",
+          "City": "Texas",
+          "Name": "Rangers",
+          "Abbreviation": "TEX"
+        },
+        "rank": "16",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "78"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "84"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "799"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "816"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "123",
+          "City": "Seattle",
+          "Name": "Mariners",
+          "Abbreviation": "SEA"
+        },
+        "rank": "17",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "78"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "84"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "750"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "772"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "128",
+          "City": "Miami",
+          "Name": "Marlins",
+          "Abbreviation": "MIA"
+        },
+        "rank": "18",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "77"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "85"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "779"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "822"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "112",
+          "City": "Toronto",
+          "Name": "Blue Jays",
+          "Abbreviation": "TOR"
+        },
+        "rank": "19",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "76"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "86"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "695"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "784"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "111",
+          "City": "Baltimore",
+          "Name": "Orioles",
+          "Abbreviation": "BAL"
+        },
+        "rank": "20",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "75"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "87"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "745"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "842"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "132",
+          "City": "Pittsburgh",
+          "Name": "Pirates",
+          "Abbreviation": "PIT"
+        },
+        "rank": "21",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "75"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "87"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "668"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "732"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "125",
+          "City": "Oakland",
+          "Name": "Athletics",
+          "Abbreviation": "OAK"
+        },
+        "rank": "22",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "75"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "87"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "739"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "826"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "130",
+          "City": "Atlanta",
+          "Name": "Braves",
+          "Abbreviation": "ATL"
+        },
+        "rank": "23",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "72"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "90"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "732"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "823"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "139",
+          "City": "San Diego",
+          "Name": "Padres",
+          "Abbreviation": "SD"
+        },
+        "rank": "24",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "71"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "91"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "604"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "816"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "127",
+          "City": "New York",
+          "Name": "Mets",
+          "Abbreviation": "NYM"
+        },
+        "rank": "25",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "70"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "92"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "735"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "863"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "135",
+          "City": "Cincinnati",
+          "Name": "Reds",
+          "Abbreviation": "CIN"
+        },
+        "rank": "26",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "68"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "94"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "753"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "869"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "119",
+          "City": "Chicago",
+          "Name": "White Sox",
+          "Abbreviation": "CWS"
+        },
+        "rank": "27",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "67"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "95"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "710"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "821"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "129",
+          "City": "Philadelphia",
+          "Name": "Phillies",
+          "Abbreviation": "PHI"
+        },
+        "rank": "28",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "66"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "96"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "690"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "782"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "117",
+          "City": "Detroit",
+          "Name": "Tigers",
+          "Abbreviation": "DET"
+        },
+        "rank": "29",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "64"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "98"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "736"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "895"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "136",
+          "City": "San Francisco",
+          "Name": "Giants",
+          "Abbreviation": "SF"
+        },
+        "rank": "30",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "162"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "64"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "98"
+          },
+          "RunsFor": {
+            "@category": "Standings",
+            "@abbreviation": "RF",
+            "#text": "639"
+          },
+          "RunsAgainst": {
+            "@category": "Standings",
+            "@abbreviation": "RA",
+            "#text": "776"
+          }
+        }
+      }
+    ]
+  }
+}

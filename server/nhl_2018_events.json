@@ -1,0 +1,2031 @@
+{
+  "fullgameschedule": {
+    "lastUpdatedOn": "2018-06-04 9:01:40 AM",
+    "gameentry": [
+      {
+        "id": "4585729",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-12",
+        "time": "9:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "4585719",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-12",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "4585711",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-12",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "4585712",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-08",
+        "time": "6:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "4585715",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-09",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "4585720",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-10",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "45857",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-11",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "45858",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-11",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "homeTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "location": "PPG Paints Arena"
+      },
+      {
+        "id": "45859",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-11",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "28",
+          "City": "Los Angeles",
+          "Name": "Kings",
+          "Abbreviation": "LAK"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "45860",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-12",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "7",
+          "City": "New Jersey",
+          "Name": "Devils",
+          "Abbreviation": "NJD"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "45861",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-12",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "homeTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "location": "TD Garden"
+      },
+      {
+        "id": "45862",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-12",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "45863",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-12",
+        "time": "9:30PM",
+        "awayTeam": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "45864",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-12",
+        "time": "10:30PM",
+        "awayTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "homeTeam": {
+          "ID": "29",
+          "City": "Anaheim",
+          "Name": "Ducks",
+          "Abbreviation": "ANA"
+        },
+        "location": "Honda Center"
+      },
+      {
+        "id": "45865",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-13",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "homeTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "location": "PPG Paints Arena"
+      },
+      {
+        "id": "45887",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-13",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "45872",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-13",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "28",
+          "City": "Los Angeles",
+          "Name": "Kings",
+          "Abbreviation": "LAK"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "45866",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-14",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "45875",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-14",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "7",
+          "City": "New Jersey",
+          "Name": "Devils",
+          "Abbreviation": "NJD"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "45874",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-14",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "homeTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "location": "TD Garden"
+      },
+      {
+        "id": "45873",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-14",
+        "time": "10:30PM",
+        "awayTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "homeTeam": {
+          "ID": "29",
+          "City": "Anaheim",
+          "Name": "Ducks",
+          "Abbreviation": "ANA"
+        },
+        "location": "Honda Center"
+      },
+      {
+        "id": "45867",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-15",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "homeTeam": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "location": "Wells Fargo Center"
+      },
+      {
+        "id": "45888",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-15",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "location": "Xcel Energy Center"
+      },
+      {
+        "id": "45877",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-15",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "45876",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-15",
+        "time": "10:30PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "28",
+          "City": "Los Angeles",
+          "Name": "Kings",
+          "Abbreviation": "LAK"
+        },
+        "location": "Staples Center"
+      },
+      {
+        "id": "45868",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-16",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "homeTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "location": "Air Canada Center"
+      },
+      {
+        "id": "45880",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-16",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "7",
+          "City": "New Jersey",
+          "Name": "Devils",
+          "Abbreviation": "NJD"
+        },
+        "location": "Prudential Center"
+      },
+      {
+        "id": "45879",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-16",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "homeTeam": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "location": "Pepsi Center"
+      },
+      {
+        "id": "45878",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-16",
+        "time": "10:30PM",
+        "awayTeam": {
+          "ID": "29",
+          "City": "Anaheim",
+          "Name": "Ducks",
+          "Abbreviation": "ANA"
+        },
+        "homeTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "location": "SAP Center at San Jose"
+      },
+      {
+        "id": "45869",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-17",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "location": "Nationwide Arena"
+      },
+      {
+        "id": "45889",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-17",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "location": "Xcel Energy Center"
+      },
+      {
+        "id": "45881",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-17",
+        "time": "10:30PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "28",
+          "City": "Los Angeles",
+          "Name": "Kings",
+          "Abbreviation": "LAK"
+        },
+        "location": "Staples Center"
+      },
+      {
+        "id": "45870",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-18",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "homeTeam": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "location": "Wells Fargo Center"
+      },
+      {
+        "id": "45884",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-18",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "7",
+          "City": "New Jersey",
+          "Name": "Devils",
+          "Abbreviation": "NJD"
+        },
+        "location": "Prudential Center"
+      },
+      {
+        "id": "45883",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-18",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "homeTeam": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "location": "Pepsi Center"
+      },
+      {
+        "id": "45882",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-18",
+        "time": "10:30PM",
+        "awayTeam": {
+          "ID": "29",
+          "City": "Anaheim",
+          "Name": "Ducks",
+          "Abbreviation": "ANA"
+        },
+        "homeTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "location": "SAP Center at San Jose"
+      },
+      {
+        "id": "45871",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-19",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "homeTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "location": "Air Canada Center"
+      },
+      {
+        "id": "45886",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-19",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "location": "Nationwide Arena"
+      },
+      {
+        "id": "45922",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-20",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "homeTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "location": "PPG Paints Arena"
+      },
+      {
+        "id": "45923",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-20",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "45924",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-20",
+        "time": "9:30PM",
+        "awayTeam": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "45925",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-21",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "7",
+          "City": "New Jersey",
+          "Name": "Devils",
+          "Abbreviation": "NJD"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "45926",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-21",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "45927",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-21",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "homeTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "location": "TD Garden"
+      },
+      {
+        "id": "45928",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-22",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "homeTeam": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "location": "Wells Fargo Center"
+      },
+      {
+        "id": "45929",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-22",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "homeTeam": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "location": "Pepsi Center"
+      },
+      {
+        "id": "45937",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-23",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "homeTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "location": "Air Canada Center"
+      },
+      {
+        "id": "45938",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-23",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "location": "Nationwide Arena"
+      },
+      {
+        "id": "45939",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-25",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "homeTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "location": "TD Garden"
+      },
+      {
+        "id": "46201",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-26",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46202",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-26",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46203",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-27",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "46204",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-28",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46205",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-28",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46206",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-29",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46207",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-29",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "46208",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-30",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46209",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-04-30",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "location": "SAP Center at San Jose"
+      },
+      {
+        "id": "46210",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-01",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "location": "PPG Paints Arena"
+      },
+      {
+        "id": "46211",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-01",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "46212",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-02",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "location": "TD Garden"
+      },
+      {
+        "id": "46213",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-02",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "location": "SAP Center at San Jose"
+      },
+      {
+        "id": "46214",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-03",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "location": "PPG Paints Arena"
+      },
+      {
+        "id": "46215",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-03",
+        "time": "9:30PM",
+        "awayTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "46216",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-04",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "location": "TD Garden"
+      },
+      {
+        "id": "46217",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-04",
+        "time": "10:00PM",
+        "awayTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46237",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-05",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46238",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-05",
+        "time": "9:30PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "46239",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-06",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46240",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-06",
+        "time": "7:30PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "location": "SAP Center at San Jose"
+      },
+      {
+        "id": "46241",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-07",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "location": "PPG Paints Arena"
+      },
+      {
+        "id": "46242",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-07",
+        "time": "9:30PM",
+        "awayTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "46247",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-10",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "location": "Bridgestone Arena"
+      },
+      {
+        "id": "46267",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-11",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46275",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-12",
+        "time": "7:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "46268",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-13",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46276",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-14",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "46269",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-15",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46277",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-16",
+        "time": "9:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46270",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-17",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46278",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-18",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46271",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-19",
+        "time": "7:15PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46279",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-20",
+        "time": "3:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "location": "Bell MTS Place"
+      },
+      {
+        "id": "46272",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-21",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46273",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-23",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "location": "Amalie Arena"
+      },
+      {
+        "id": "46288",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-28",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46289",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-05-30",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46290",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-02",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46291",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-04",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46292",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-07",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      },
+      {
+        "id": "46293",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-10",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "homeTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "location": "Capital One Arena"
+      },
+      {
+        "id": "46294",
+        "scheduleStatus": "Normal",
+        "originalDate": null,
+        "originalTime": null,
+        "delayedOrPostponedReason": null,
+        "date": "2018-06-13",
+        "time": "8:00PM",
+        "awayTeam": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "homeTeam": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "location": "T-Mobile Arena"
+      }
+    ]
+  }
+}

@@ -1,0 +1,899 @@
+{
+  "gameboxscore": {
+    "lastUpdatedOn": "2018-06-07 10:18:53 AM",
+    "game": {
+      "date": "2018-04-14",
+      "time": "10:30PM",
+      "awayTeam": {
+        "ID": "26",
+        "City": "San Jose",
+        "Name": "Sharks",
+        "Abbreviation": "SJS"
+      },
+      "homeTeam": {
+        "ID": "29",
+        "City": "Anaheim",
+        "Name": "Ducks",
+        "Abbreviation": "ANA"
+      },
+      "location": "Honda Center"
+    },
+    "periodSummary": {
+      "period": [
+        {
+          "@number": "1",
+          "awayScore": "2",
+          "awayShots": "9",
+          "homeScore": "1",
+          "homeShots": "8",
+          "scoring": {
+            "goalScored": [
+              {
+                "time": "0:40",
+                "teamAbbreviation": "ANA",
+                "goalScorer": {
+                  "ID": "5106",
+                  "LastName": "Silfverberg",
+                  "FirstName": "Jakob",
+                  "JerseyNumber": "33",
+                  "Position": "RW",
+                  "Height": "6'2\"",
+                  "Weight": "202",
+                  "BirthCity": "Gävle",
+                  "BirthCountry": "Sweden",
+                  "IsRookie": "false"
+                },
+                "assist1Player": {
+                  "ID": "5228",
+                  "LastName": "Lindholm",
+                  "FirstName": "Hampus",
+                  "JerseyNumber": "47",
+                  "Position": "D",
+                  "Height": "6'3\"",
+                  "Weight": "208",
+                  "BirthCity": "Helsingborg",
+                  "BirthCountry": "Sweden",
+                  "IsRookie": "false"
+                }
+              },
+              {
+                "time": "9:41",
+                "teamAbbreviation": "SJS",
+                "goalScorer": {
+                  "ID": "11740",
+                  "LastName": "Sorensen",
+                  "FirstName": "Marcus",
+                  "JerseyNumber": "20",
+                  "Position": "RW",
+                  "Height": "5'11\"",
+                  "Weight": "175",
+                  "BirthCity": "Sodertalje",
+                  "BirthCountry": "Sweden",
+                  "IsRookie": "false"
+                },
+                "assist1Player": {
+                  "ID": "5497",
+                  "LastName": "Karlsson",
+                  "FirstName": "Melker",
+                  "JerseyNumber": "68",
+                  "Position": "C",
+                  "Height": "6'0\"",
+                  "Weight": "180",
+                  "BirthCity": "Lycksele",
+                  "BirthCountry": "Sweden",
+                  "IsRookie": "false"
+                },
+                "assist2Player": {
+                  "ID": "5103",
+                  "LastName": "Dillon",
+                  "FirstName": "Brenden",
+                  "JerseyNumber": "4",
+                  "Position": "D",
+                  "Height": "6'4\"",
+                  "Weight": "225",
+                  "BirthCity": "New Westminster, BC",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                }
+              },
+              {
+                "time": "14:41",
+                "teamAbbreviation": "SJS",
+                "goalScorer": {
+                  "ID": "4715",
+                  "LastName": "Couture",
+                  "FirstName": "Logan",
+                  "JerseyNumber": "39",
+                  "Position": "C",
+                  "Height": "6'1\"",
+                  "Weight": "205",
+                  "BirthCity": "Guelph, ON",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "assist1Player": {
+                  "ID": "10177",
+                  "LastName": "Labanc",
+                  "FirstName": "Kevin",
+                  "JerseyNumber": "62",
+                  "Position": "RW",
+                  "Height": "5'11\"",
+                  "Weight": "185",
+                  "BirthCity": "Brooklyn, NY",
+                  "BirthCountry": "USA",
+                  "IsRookie": "false"
+                },
+                "assist2Player": {
+                  "ID": "4136",
+                  "LastName": "Pavelski",
+                  "FirstName": "Joe",
+                  "JerseyNumber": "8",
+                  "Position": "C",
+                  "Height": "5'11\"",
+                  "Weight": "195",
+                  "BirthCity": "Plover, WI",
+                  "BirthCountry": "USA",
+                  "IsRookie": "false"
+                }
+              }
+            ]
+          },
+          "penalties": {
+            "penalty": [
+              {
+                "time": "6:12",
+                "teamAbbreviation": "SJS",
+                "penalizedPlayer": {
+                  "ID": "4656",
+                  "LastName": "Kane",
+                  "FirstName": "Evander",
+                  "JerseyNumber": "9",
+                  "Position": "LW",
+                  "Height": "6'2\"",
+                  "Weight": "212",
+                  "BirthCity": "Vancouver, BC",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Roughing"
+              },
+              {
+                "time": "6:12",
+                "teamAbbreviation": "ANA",
+                "penalizedPlayer": {
+                  "ID": "5106",
+                  "LastName": "Silfverberg",
+                  "FirstName": "Jakob",
+                  "JerseyNumber": "33",
+                  "Position": "RW",
+                  "Height": "6'2\"",
+                  "Weight": "202",
+                  "BirthCity": "Gävle",
+                  "BirthCountry": "Sweden",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Roughing"
+              },
+              {
+                "time": "13:37",
+                "teamAbbreviation": "ANA",
+                "penalizedPlayer": {
+                  "ID": "11648",
+                  "LastName": "Montour",
+                  "FirstName": "Brandon",
+                  "JerseyNumber": "26",
+                  "Position": "D",
+                  "Height": "6'0\"",
+                  "Weight": "192",
+                  "BirthCity": "Brantford, ON",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Hooking"
+              }
+            ]
+          }
+        },
+        {
+          "@number": "2",
+          "awayScore": "1",
+          "awayShots": "13",
+          "homeScore": "1",
+          "homeShots": "11",
+          "scoring": {
+            "goalScored": [
+              {
+                "time": "1:11",
+                "teamAbbreviation": "SJS",
+                "goalScorer": {
+                  "ID": "5255",
+                  "LastName": "Hertl",
+                  "FirstName": "Tomas",
+                  "JerseyNumber": "48",
+                  "Position": "C",
+                  "Height": "6'2\"",
+                  "Weight": "220",
+                  "BirthCity": "Praha",
+                  "BirthCountry": "CzechRepublic",
+                  "IsRookie": "false"
+                },
+                "assist1Player": {
+                  "ID": "4538",
+                  "LastName": "Boedker",
+                  "FirstName": "Mikkel",
+                  "JerseyNumber": "89",
+                  "Position": "LW",
+                  "Height": "6'0\"",
+                  "Weight": "210",
+                  "BirthCity": "Brondby",
+                  "BirthCountry": "Denmark",
+                  "IsRookie": "false"
+                },
+                "assist2Player": {
+                  "ID": "4715",
+                  "LastName": "Couture",
+                  "FirstName": "Logan",
+                  "JerseyNumber": "39",
+                  "Position": "C",
+                  "Height": "6'1\"",
+                  "Weight": "205",
+                  "BirthCity": "Guelph, ON",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                }
+              },
+              {
+                "time": "7:51",
+                "teamAbbreviation": "ANA",
+                "goalScorer": {
+                  "ID": "5228",
+                  "LastName": "Lindholm",
+                  "FirstName": "Hampus",
+                  "JerseyNumber": "47",
+                  "Position": "D",
+                  "Height": "6'3\"",
+                  "Weight": "208",
+                  "BirthCity": "Helsingborg",
+                  "BirthCountry": "Sweden",
+                  "IsRookie": "false"
+                },
+                "assist1Player": {
+                  "ID": "3623",
+                  "LastName": "Getzlaf",
+                  "FirstName": "Ryan",
+                  "JerseyNumber": "15",
+                  "Position": "C",
+                  "Height": "6'4\"",
+                  "Weight": "223",
+                  "BirthCity": "Regina, SK",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "assist2Player": {
+                  "ID": "787",
+                  "LastName": "Kesler",
+                  "FirstName": "Ryan",
+                  "JerseyNumber": "17",
+                  "Position": "C",
+                  "Height": "6'2\"",
+                  "Weight": "202",
+                  "BirthCity": "Livonia, MI",
+                  "BirthCountry": "USA",
+                  "IsRookie": "false"
+                }
+              }
+            ]
+          },
+          "penalties": {
+            "penalty": [
+              {
+                "time": "6:30",
+                "teamAbbreviation": "SJS",
+                "penalizedPlayer": {
+                  "ID": "97",
+                  "LastName": "Martin",
+                  "FirstName": "Paul",
+                  "JerseyNumber": "7",
+                  "Position": "D",
+                  "Height": "6'1\"",
+                  "Weight": "200",
+                  "BirthCity": "Minneapolis, MN",
+                  "BirthCountry": "USA",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Slashing"
+              }
+            ]
+          }
+        },
+        {
+          "@number": "3",
+          "awayScore": "0",
+          "awayShots": "13",
+          "homeScore": "0",
+          "homeShots": "11",
+          "scoring": null,
+          "penalties": {
+            "penalty": [
+              {
+                "time": "6:12",
+                "teamAbbreviation": "SJS",
+                "penalizedPlayer": {
+                  "ID": "4656",
+                  "LastName": "Kane",
+                  "FirstName": "Evander",
+                  "JerseyNumber": "9",
+                  "Position": "LW",
+                  "Height": "6'2\"",
+                  "Weight": "212",
+                  "BirthCity": "Vancouver, BC",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Delay Of Game"
+              },
+              {
+                "time": "9:17",
+                "teamAbbreviation": "ANA",
+                "penalizedPlayer": {
+                  "ID": "5432",
+                  "LastName": "Ritchie",
+                  "FirstName": "Nick",
+                  "JerseyNumber": "37",
+                  "Position": "LW",
+                  "Height": "6'2\"",
+                  "Weight": "234",
+                  "BirthCity": "Orangeville, ON",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Tripping"
+              },
+              {
+                "time": "16:17",
+                "teamAbbreviation": "ANA",
+                "penalizedPlayer": {
+                  "ID": "3626",
+                  "LastName": "Perry",
+                  "FirstName": "Corey",
+                  "JerseyNumber": "10",
+                  "Position": "RW",
+                  "Height": "6'3\"",
+                  "Weight": "213",
+                  "BirthCity": "Peterborough, ON",
+                  "BirthCountry": "Canada",
+                  "IsRookie": "false"
+                },
+                "severity": "Minor",
+                "durationMinutes": "2",
+                "type": "Interference"
+              }
+            ]
+          }
+        }
+      ],
+      "periodTotals": {
+        "awayScore": "3",
+        "awayShots": "35",
+        "homeScore": "2",
+        "homeShots": "30"
+      }
+    },
+    "awayTeam": {
+      "awayTeamStats": null,
+      "awayPlayers": {
+        "playerEntry": [
+          {
+            "player": {
+              "ID": "4538",
+              "LastName": "Boedker",
+              "FirstName": "Mikkel",
+              "Position": "LW",
+              "Height": "6'0\"",
+              "Weight": "210",
+              "BirthCity": "Brondby",
+              "BirthCountry": "Denmark"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4916",
+              "LastName": "Braun",
+              "FirstName": "Justin",
+              "Position": "D",
+              "Height": "6'2\"",
+              "Weight": "205",
+              "BirthCity": "Minneapolis, MN",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "15",
+              "LastName": "Burns",
+              "FirstName": "Brent",
+              "Position": "D",
+              "Height": "6'5\"",
+              "Weight": "230",
+              "BirthCity": "Barrie, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4715",
+              "LastName": "Couture",
+              "FirstName": "Logan",
+              "Position": "C",
+              "Height": "6'1\"",
+              "Weight": "205",
+              "BirthCity": "Guelph, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5822",
+              "LastName": "DeMelo",
+              "FirstName": "Dylan",
+              "Position": "D",
+              "Height": "6'1\"",
+              "Weight": "195",
+              "BirthCity": "London, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5103",
+              "LastName": "Dillon",
+              "FirstName": "Brenden",
+              "Position": "D",
+              "Height": "6'4\"",
+              "Weight": "225",
+              "BirthCity": "New Westminster, BC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5821",
+              "LastName": "Donskoi",
+              "FirstName": "Joonas",
+              "Position": "RW",
+              "Height": "6'0\"",
+              "Weight": "190",
+              "BirthCity": "Raahe",
+              "BirthCountry": "Finland"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "3819",
+              "LastName": "Fehr",
+              "FirstName": "Eric",
+              "Position": "RW",
+              "Height": "6'4\"",
+              "Weight": "208",
+              "BirthCity": "Winkler, MB",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5255",
+              "LastName": "Hertl",
+              "FirstName": "Tomas",
+              "Position": "C",
+              "Height": "6'2\"",
+              "Weight": "220",
+              "BirthCity": "Praha",
+              "BirthCountry": "CzechRepublic"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5122",
+              "LastName": "Jones",
+              "FirstName": "Martin",
+              "Position": "G",
+              "Height": "6'4\"",
+              "Weight": "195",
+              "BirthCity": "North Vancouver, BC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4656",
+              "LastName": "Kane",
+              "FirstName": "Evander",
+              "Position": "LW",
+              "Height": "6'2\"",
+              "Weight": "212",
+              "BirthCity": "Vancouver, BC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5497",
+              "LastName": "Karlsson",
+              "FirstName": "Melker",
+              "Position": "C",
+              "Height": "6'0\"",
+              "Weight": "180",
+              "BirthCity": "Lycksele",
+              "BirthCountry": "Sweden"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "10177",
+              "LastName": "Labanc",
+              "FirstName": "Kevin",
+              "Position": "RW",
+              "Height": "5'11\"",
+              "Weight": "185",
+              "BirthCity": "Brooklyn, NY",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "97",
+              "LastName": "Martin",
+              "FirstName": "Paul",
+              "Position": "D",
+              "Height": "6'1\"",
+              "Weight": "200",
+              "BirthCity": "Minneapolis, MN",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5604",
+              "LastName": "Meier",
+              "FirstName": "Timo",
+              "Position": "RW",
+              "Height": "6'0\"",
+              "Weight": "215",
+              "BirthCity": "Herisau",
+              "BirthCountry": "Switzerland"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4136",
+              "LastName": "Pavelski",
+              "FirstName": "Joe",
+              "Position": "C",
+              "Height": "5'11\"",
+              "Weight": "195",
+              "BirthCity": "Plover, WI",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "11740",
+              "LastName": "Sorensen",
+              "FirstName": "Marcus",
+              "Position": "RW",
+              "Height": "5'11\"",
+              "Weight": "175",
+              "BirthCity": "Sodertalje",
+              "BirthCountry": "Sweden"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5447",
+              "LastName": "Tierney",
+              "FirstName": "Chris",
+              "Position": "C",
+              "Height": "6'1\"",
+              "Weight": "195",
+              "BirthCity": "Keswick, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4021",
+              "LastName": "Vlasic",
+              "FirstName": "Marc-Edouard",
+              "Position": "D",
+              "Height": "6'1\"",
+              "Weight": "205",
+              "BirthCity": "Montreal, QC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          }
+        ]
+      }
+    },
+    "homeTeam": {
+      "homeTeamStats": null,
+      "homePlayers": {
+        "playerEntry": [
+          {
+            "player": {
+              "ID": "3703",
+              "LastName": "Beauchemin",
+              "FirstName": "Francois",
+              "Position": "D",
+              "Height": "5'11\"",
+              "Weight": "208",
+              "BirthCity": "Sorel, QC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "3821",
+              "LastName": "Bieksa",
+              "FirstName": "Kevin",
+              "Position": "D",
+              "Height": "6'1\"",
+              "Weight": "197",
+              "BirthCity": "Grimsby, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5095",
+              "LastName": "Brown",
+              "FirstName": "J.T.",
+              "Position": "RW",
+              "Height": "5'10\"",
+              "Weight": "169",
+              "BirthCity": "Burnsville, MN",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4284",
+              "LastName": "Cogliano",
+              "FirstName": "Andrew",
+              "Position": "C",
+              "Height": "5'10\"",
+              "Weight": "177",
+              "BirthCity": "Toronto, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "3623",
+              "LastName": "Getzlaf",
+              "FirstName": "Ryan",
+              "Position": "C",
+              "Height": "6'4\"",
+              "Weight": "223",
+              "BirthCity": "Regina, SK",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5227",
+              "LastName": "Gibson",
+              "FirstName": "John",
+              "Position": "G",
+              "Height": "6'3\"",
+              "Weight": "223",
+              "BirthCity": "Pittsburgh, PA",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5172",
+              "LastName": "Grant",
+              "FirstName": "Derek",
+              "Position": "C",
+              "Height": "6'3\"",
+              "Weight": "215",
+              "BirthCity": "Abbotsford, BC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "4983",
+              "LastName": "Henrique",
+              "FirstName": "Adam",
+              "Position": "C",
+              "Height": "6'0\"",
+              "Weight": "195",
+              "BirthCity": "Brantford, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "10171",
+              "LastName": "Kase",
+              "FirstName": "Ondrej",
+              "Position": "RW",
+              "Height": "6'0\"",
+              "Weight": "185",
+              "BirthCity": "Kadan",
+              "BirthCountry": "CzechRepublic"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "787",
+              "LastName": "Kesler",
+              "FirstName": "Ryan",
+              "Position": "C",
+              "Height": "6'2\"",
+              "Weight": "202",
+              "BirthCity": "Livonia, MI",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5228",
+              "LastName": "Lindholm",
+              "FirstName": "Hampus",
+              "Position": "D",
+              "Height": "6'3\"",
+              "Weight": "208",
+              "BirthCity": "Helsingborg",
+              "BirthCountry": "Sweden"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5477",
+              "LastName": "Manson",
+              "FirstName": "Josh",
+              "Position": "D",
+              "Height": "6'3\"",
+              "Weight": "213",
+              "BirthCity": "Hinsdale, IL",
+              "BirthCountry": "USA"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "11648",
+              "LastName": "Montour",
+              "FirstName": "Brandon",
+              "Position": "D",
+              "Height": "6'0\"",
+              "Weight": "192",
+              "BirthCity": "Brantford, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "3626",
+              "LastName": "Perry",
+              "FirstName": "Corey",
+              "Position": "RW",
+              "Height": "6'3\"",
+              "Weight": "213",
+              "BirthCity": "Peterborough, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "14114",
+              "LastName": "Pettersson",
+              "FirstName": "Marcus",
+              "Position": "D"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5144",
+              "LastName": "Rakell",
+              "FirstName": "Rickard",
+              "Position": "RW",
+              "Height": "6'2\"",
+              "Weight": "198",
+              "BirthCity": "Sundbyberg",
+              "BirthCountry": "Sweden"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5432",
+              "LastName": "Ritchie",
+              "FirstName": "Nick",
+              "Position": "LW",
+              "Height": "6'2\"",
+              "Weight": "234",
+              "BirthCity": "Orangeville, ON",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "5106",
+              "LastName": "Silfverberg",
+              "FirstName": "Jakob",
+              "Position": "RW",
+              "Height": "6'2\"",
+              "Weight": "202",
+              "BirthCity": "Gävle",
+              "BirthCountry": "Sweden"
+            },
+            "stats": null
+          },
+          {
+            "player": {
+              "ID": "231",
+              "LastName": "Vermette",
+              "FirstName": "Antoine",
+              "Position": "C",
+              "Height": "6'1\"",
+              "Weight": "197",
+              "BirthCity": "St. Agapit, QC",
+              "BirthCountry": "Canada"
+            },
+            "stats": null
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "overallteamstandings": {
+    "lastUpdatedOn": "2018-06-05 12:10:43 AM",
+    "teamstandingsentry": [
+      {
+        "team": {
+          "ID": "5",
+          "City": "Washington",
+          "Name": "Capitals",
+          "Abbreviation": "WSH"
+        },
+        "rank": "1",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "23"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "15"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "8"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "82"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "58"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "30"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "142",
+          "City": "Vegas",
+          "Name": "Golden Knights",
+          "Abbreviation": "VGK"
+        },
+        "rank": "2",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "19"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "13"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "6"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "54"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "43"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "26"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "1",
+          "City": "Tampa Bay",
+          "Name": "Lightning",
+          "Abbreviation": "TBL"
+        },
+        "rank": "3",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "17"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "11"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "6"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "50"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "48"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "22"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "2",
+          "City": "Winnipeg",
+          "Name": "Jets",
+          "Abbreviation": "WPJ"
+        },
+        "rank": "4",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "17"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "9"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "8"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "53"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "42"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "18"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "18",
+          "City": "Nashville",
+          "Name": "Predators",
+          "Abbreviation": "NSH"
+        },
+        "rank": "5",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "13"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "7"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "6"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "41"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "42"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "14"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "26",
+          "City": "San Jose",
+          "Name": "Sharks",
+          "Abbreviation": "SJS"
+        },
+        "rank": "6",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "10"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "6"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "30"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "26"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "12"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "10",
+          "City": "Pittsburgh",
+          "Name": "Penguins",
+          "Abbreviation": "PIT"
+        },
+        "rank": "7",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "12"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "6"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "6"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "42"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "34"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "12"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "11",
+          "City": "Boston",
+          "Name": "Bruins",
+          "Abbreviation": "BOS"
+        },
+        "rank": "8",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "12"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "5"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "7"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "41"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "37"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "10"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "12",
+          "City": "Toronto",
+          "Name": "Maple Leafs",
+          "Abbreviation": "TOR"
+        },
+        "rank": "9",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "7"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "3"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "20"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "28"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "6"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "19",
+          "City": "Columbus",
+          "Name": "Blue Jackets",
+          "Abbreviation": "CBJ"
+        },
+        "rank": "10",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "6"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "2"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "18"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "24"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "4"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "22",
+          "City": "Colorado",
+          "Name": "Avalanche",
+          "Abbreviation": "COL"
+        },
+        "rank": "11",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "6"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "2"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "15"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "22"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "4"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "6",
+          "City": "Philadelphia",
+          "Name": "Flyers",
+          "Abbreviation": "PHI"
+        },
+        "rank": "12",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "6"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "2"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "15"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "28"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "4"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "7",
+          "City": "New Jersey",
+          "Name": "Devils",
+          "Abbreviation": "NJD"
+        },
+        "rank": "13",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "5"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "1"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "12"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "18"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "2"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "25",
+          "City": "Minnesota",
+          "Name": "Wild",
+          "Abbreviation": "MIN"
+        },
+        "rank": "14",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "5"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "1"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "9"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "16"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "2"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "28",
+          "City": "Los Angeles",
+          "Name": "Kings",
+          "Abbreviation": "LAK"
+        },
+        "rank": "15",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "4"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "0"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "3"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "7"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "0"
+            }
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "29",
+          "City": "Anaheim",
+          "Name": "Ducks",
+          "Abbreviation": "ANA"
+        },
+        "rank": "16",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "GP",
+            "#text": "4"
+          },
+          "stats": {
+            "Wins": {
+              "@abbreviation": "W",
+              "#text": "0"
+            },
+            "Losses": {
+              "@abbreviation": "L",
+              "#text": "4"
+            },
+            "GoalsFor": {
+              "@abbreviation": "GF",
+              "#text": "4"
+            },
+            "GoalsAgainst": {
+              "@abbreviation": "GA",
+              "#text": "16"
+            },
+            "Points": {
+              "@abbreviation": "Pts",
+              "#text": "0"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

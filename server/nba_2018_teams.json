@@ -1,0 +1,567 @@
+{
+  "overallteamstandings": {
+    "lastUpdatedOn": "2018-06-09 12:49:29 AM",
+    "teamstandingsentry": [
+      {
+        "team": {
+          "ID": "101",
+          "City": "Golden State",
+          "Name": "Warriors",
+          "Abbreviation": "GSW"
+        },
+        "rank": "1",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "21"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "2319"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "2109"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "16"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "5"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "109",
+          "City": "Houston",
+          "Name": "Rockets",
+          "Abbreviation": "HOU"
+        },
+        "rank": "2",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "17"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "1784"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "1753"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "11"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "6"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "82",
+          "City": "Boston",
+          "Name": "Celtics",
+          "Abbreviation": "BOS"
+        },
+        "rank": "3",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "19"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "1926"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "1913"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "11"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "8"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "110",
+          "City": "New Orleans",
+          "Name": "Pelicans",
+          "Abbreviation": "NOP"
+        },
+        "rank": "4",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "9"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "990"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "997"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "5"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "86",
+          "City": "Cleveland",
+          "Name": "Cavaliers",
+          "Abbreviation": "CLE"
+        },
+        "rank": "5",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "22"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "2225"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "2263"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "12"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "10"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "85",
+          "City": "Philadelphia",
+          "Name": "76ers",
+          "Abbreviation": "PHI"
+        },
+        "rank": "6",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "10"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "1088"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "1049"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "5"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "5"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "98",
+          "City": "Utah",
+          "Name": "Jazz",
+          "Abbreviation": "UTA"
+        },
+        "rank": "7",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "11"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "1126"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "1150"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "5"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "6"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "87",
+          "City": "Indiana",
+          "Name": "Pacers",
+          "Abbreviation": "IND"
+        },
+        "rank": "8",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "7"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "704"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "664"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "3"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "90",
+          "City": "Milwaukee",
+          "Name": "Bucks",
+          "Abbreviation": "MIL"
+        },
+        "rank": "9",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "7"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "713"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "717"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "3"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "81",
+          "City": "Toronto",
+          "Name": "Raptors",
+          "Abbreviation": "TOR"
+        },
+        "rank": "10",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "10"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "1073"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "1117"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "4"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "6"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "94",
+          "City": "Washington",
+          "Name": "Wizards",
+          "Abbreviation": "WAS"
+        },
+        "rank": "11",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "6"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "643"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "655"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "2"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "96",
+          "City": "Oklahoma City",
+          "Name": "Thunder",
+          "Abbreviation": "OKL"
+        },
+        "rank": "12",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "6"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "607"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "633"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "2"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "100",
+          "City": "Minnesota",
+          "Name": "Timberwolves",
+          "Abbreviation": "MIN"
+        },
+        "rank": "13",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "5"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "508"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "552"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "1"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "106",
+          "City": "San Antonio",
+          "Name": "Spurs",
+          "Abbreviation": "SAS"
+        },
+        "rank": "14",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "5"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "484"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "528"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "1"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "92",
+          "City": "Miami",
+          "Name": "Heat",
+          "Abbreviation": "MIA"
+        },
+        "rank": "15",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "5"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "517"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "571"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "1"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      },
+      {
+        "team": {
+          "ID": "97",
+          "City": "Portland",
+          "Name": "Trail Blazers",
+          "Abbreviation": "POR"
+        },
+        "rank": "16",
+        "stats": {
+          "GamesPlayed": {
+            "@abbreviation": "G",
+            "#text": "4"
+          },
+          "Pts": {
+            "@category": "Offense",
+            "@abbreviation": "PTS",
+            "#text": "422"
+          },
+          "PtsAgainst": {
+            "@category": "Defense",
+            "@abbreviation": "PTSA",
+            "#text": "458"
+          },
+          "Wins": {
+            "@category": "Standings",
+            "@abbreviation": "W",
+            "#text": "0"
+          },
+          "Losses": {
+            "@category": "Standings",
+            "@abbreviation": "L",
+            "#text": "4"
+          }
+        }
+      }
+    ]
+  }
+}

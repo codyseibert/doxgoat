@@ -1,0 +1,2 @@
+#!/bin/bash
+sshpass -p $SERVER_PASS root@206.81.9.83 "cd /home/doxgoat/server && git stash && git pull && git stash pop && npm i && pm2 delete adonis && pm2 delete server && adonis migration:run --force && pm2 start server.js && pm2 start adonis -- run:scheduler"
